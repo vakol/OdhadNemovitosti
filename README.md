@@ -1,5 +1,5 @@
 # Ukázka aplikace "Odhad Nemovitostí"
-Tato aplikace vám pomůže s odhadem ceny nemovitostí.
+Tato aplikace vám pomůže s odhadem cen nemovitostí.
 - Udržujte seznam nemovitostí ve vlastní databázi.
 - Lze zobrazit umístění dané nemovitosti na mapě pomocí Street View.
 - Pro analýzu ceny lze použít multikriteriální výběry.
